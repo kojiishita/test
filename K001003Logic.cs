@@ -18,6 +18,8 @@ using UBS.KW21.Keiri.Report.API.Constants.K001003;
 
 namespace UBS.KW21.Keiri.Report.API.Logics
 {
+// おためしコミット
+
     /// <summary>
     /// 予算伝票モニタリスト出力（K001003）の帳票作成ロジック
     /// </summary>
